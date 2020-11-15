@@ -1,0 +1,12 @@
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\Models.dll.config
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\Models.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\Models.pdb
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\EntityFramework.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\EntityFramework.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\obj\Debug\Models.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\Models\obj\Debug\Models.pdb

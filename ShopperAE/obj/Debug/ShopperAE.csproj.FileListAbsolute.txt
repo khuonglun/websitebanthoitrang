@@ -1,0 +1,710 @@
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\ShopperAE.dll.config
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\ShopperAE.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\ShopperAE.pdb
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\WebGrease.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\obj\Debug\ShopperAE.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\obj\Debug\ShopperAE.pdb
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\EntityFramework.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\EntityFramework.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\PagedList.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\PagedList.xml
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+C:\Users\Hi-XV\source\repos\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\ShopperAE.dll.config
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\ShopperAE.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\ShopperAE.pdb
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\EntityFramework.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\PagedList.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\WebGrease.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\EntityFramework.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\PagedList.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\obj\Debug\ShopperAE.dll
+C:\Users\PC\Desktop\ShopperAE\ShopperAE\obj\Debug\ShopperAE.pdb
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.dll.config
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.pdb
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\WebGrease.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.dll
+D:\doanassp\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.pdb
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.dll.config
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopperAE.pdb
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.dll
+C:\Users\Admin\Desktop\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\WebGrease.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.dll.config
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopKARMA.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopKARMA.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\netstandard.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.AppContext.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.Concurrent.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.NonGeneric.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.Specialized.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Console.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Data.Common.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Debug.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Process.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Tools.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Drawing.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Dynamic.Runtime.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.Extensions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Pipes.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Expressions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Parallel.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Queryable.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Http.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.NameResolution.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.NetworkInformation.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Ping.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Requests.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Security.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebSockets.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ObjectModel.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.Extensions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.Reader.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.ResourceManager.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.Writer.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Extensions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Handles.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.InteropServices.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Numerics.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Claims.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Principal.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.SecureString.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.Encoding.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.RegularExpressions.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Overlapped.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Tasks.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Thread.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.ThreadPool.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Timer.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XDocument.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Identity.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Admin\Downloads\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.dll.config
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\ShopKARMA.pdb
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.exe.config
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csc.rsp
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.exe.config
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\csi.rsp
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.AppContext.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Collections.Immutable.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Console.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Compression.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.IO.Pipes.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.AccessControl.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Claims.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.ValueTuple.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.exe.config
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\vbc.rsp
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\roslyn\VBCSCompiler.exe.config
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Win32.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\netstandard.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.AppContext.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.Concurrent.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.NonGeneric.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Collections.Specialized.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ComponentModel.TypeConverter.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Console.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Data.Common.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Contracts.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Debug.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Process.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.StackTrace.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Tools.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.TraceSource.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Diagnostics.Tracing.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Drawing.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Dynamic.Runtime.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.Calendars.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Globalization.Extensions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Compression.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Compression.ZipFile.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.FileSystem.Watcher.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.IsolatedStorage.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.MemoryMappedFiles.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.Pipes.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Expressions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Parallel.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Linq.Queryable.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Http.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.NameResolution.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.NetworkInformation.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Ping.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Requests.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Security.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.Sockets.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebHeaderCollection.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebSockets.Client.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Net.WebSockets.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ObjectModel.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.Extensions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Reflection.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.Reader.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.ResourceManager.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Resources.Writer.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Extensions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Handles.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.InteropServices.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Numerics.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Formatters.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Json.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Runtime.Serialization.Xml.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Claims.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Algorithms.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Csp.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Encoding.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.Primitives.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.Principal.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Security.SecureString.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.Encoding.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.Encoding.Extensions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Text.RegularExpressions.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Overlapped.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Tasks.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Tasks.Parallel.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Thread.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.ThreadPool.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Threading.Timer.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.ValueTuple.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.ReaderWriter.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XDocument.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XmlDocument.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XmlSerializer.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XPath.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Xml.XPath.XDocument.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Identity.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.Web.Infrastructure.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\WebGrease.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\EntityFramework.SqlServer.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Logging.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\PagedList.Mvc.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Helpers.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Mvc.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Optimization.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.Razor.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Deployment.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\System.Web.WebPages.Razor.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Newtonsoft.Json.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Antlr3.Runtime.pdb
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csprojAssemblyReference.cache
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CoreCompileInputs.cache
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopperAE.csproj.CopyComplete
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopKARMA.dll
+D:\Download ngay 14-10\ProjectShopAE\ProjectShopAE\ShopperAE\ShopperAE\ShopperAE\obj\Debug\ShopKARMA.pdb
